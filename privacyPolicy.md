@@ -1,6 +1,5 @@
 # Privacy Policy – Understanding My Child
-**Last updated:** [INSERT DATE]
-
+**Last updated:** 15/02/2026
 ---
 
 ### 1. Overview
@@ -47,4 +46,4 @@ We may update this policy as features evolve. Continued use of the service const
 
 ### 12. Contact
 For any privacy-related inquiries, please contact:  
-**[CONTACT EMAIL]**
+**jstarapps@yahoo.com**
